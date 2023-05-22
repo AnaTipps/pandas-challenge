@@ -31,9 +31,10 @@ Average reading score
 % overall passing (the percentage of students who passed math AND reading)
 Highest-Performing Schools (by % Overall Passing)
 
-# Top 5 schools with the higher Overall Passin rates on maths and reading.
+# Shool performance 
+Top 5 schools with the higher Overall Passin rates on maths and reading.
 
-# As well as the bottom 5 schools with the lowest Overall Passin rates on maths and reading.
+As well as the bottom 5 schools with the lowest Overall Passin rates on maths and reading.
 
 
 # A Math Scores by Grade
